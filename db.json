@@ -1,0 +1,28 @@
+{    
+    "players": [
+        {
+            "id": 1,
+            "alias": "Rimias99",
+            "Descrizione": "bla bla bla",
+            "img":"assets/imgs/sam.jpg"
+        },
+        {
+            "id": 2,
+            "alias": "Manu007",
+            "Descrizione": "bla bla bla",
+            "img":"assets/imgs/sam.jpg"
+        },
+        {
+            "id": 3,
+            "alias": "Smonkey",
+            "Descrizione": "bla bla bla",
+            "img":"assets/imgs/sam.jpg"
+        },
+        {
+            "id": 4,
+            "alias": "Vandal",
+            "Descrizione": "bla bla bla",
+            "img":"assets/imgs/sam.jpg"
+        }
+    ]
+}

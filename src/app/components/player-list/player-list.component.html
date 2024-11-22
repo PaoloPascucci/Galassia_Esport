@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="col-3" *ngFor="let item of players">
+        <div class="card" >
+            <h2>{{item.alias}}</h2>
+            <p>{{item.Descrizione}}</p>
+        <img src="{{item.img}}" alt="{{item.alias}}">        
+        <a class="btn btn-primary"  [routerLink]="['/players', item.id]"
+        routerLinkActive="active">visualizza</a>
+        </div>
+    </div>
+    
+</div>
+
+
